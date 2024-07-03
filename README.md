@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a graduate of the Fullstack Python language co
 - [FlightSystemProject](https://github.com/ShovalElhaiany/FlightSystemProject): A system for managing flight bookings.
 - [Spotify](https://github.com/ShovalElhaiany/spotify): A clone of Spotify with music streaming features.
 - [Netflix](https://github.com/ShovalElhaiany/netflix): A clone of Netflix with custom horizontal scrolling features.
-- [Netflix](https://github.com/ShovalElhaiany/online-coding-app): An application for real-time collaboration between mentors and students on JavaScript code.
+- [online-coding-app](https://github.com/ShovalElhaiany/online-coding-app): An application for real-time collaboration between mentors and students on JavaScript code.
 
 ## Connect with Me
 
