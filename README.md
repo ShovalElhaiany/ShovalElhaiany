@@ -55,7 +55,7 @@ Passionate about building efficient systems, solving complex technical problems,
 * **[C Fundamentals Exercises](https://github.com/ShovalElhaiany/C-Fundamentals-Exercises):**
   A complete set of exercises for learning the fundamentals of C — expressions, pointers, arrays, bitwise operations, structs, files, assembly, and more.
 
-* **Data Structures in C:**
+* **[Data Structures in C](https://github.com/ShovalElhaiany/C-Data-Structures-Implementation):**
   Implementations of linked lists, hash tables, recursion libs, AVL trees, stacks, and sorting algorithms.
 
 * **[Network Protocols Exercises](https://github.com/ShovalElhaiany/network):**
