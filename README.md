@@ -103,8 +103,3 @@ Passionate about building efficient systems, solving complex technical problems,
 ## 🌐 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/shoval-elhaiany
----
-
-## 📊 GitHub Stats
-
-![Shoval's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ShovalElhaiany&show_icons=true&theme=radical&cache_seconds=86400](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ShovalElhaiany&show_icons=true&theme=radical))
