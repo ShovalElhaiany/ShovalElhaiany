@@ -69,9 +69,7 @@ Passionate about building efficient systems, solving complex technical problems,
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/shoval-elhaiany  
-- **Personal Website:** https://shovalelhaiany.github.io/personal-web
-
+- **LinkedIn:** https://www.linkedin.com/in/shoval-elhaiany
 ---
 
 ## 📊 GitHub Stats
