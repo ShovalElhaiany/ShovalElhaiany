@@ -50,19 +50,52 @@ Passionate about building efficient systems, solving complex technical problems,
 
 ## 📂 Projects (Selection)
 
-- **[Airbnb](https://github.com/ShovalElhaiany/airbnb):**  
+### 🛡️ Cyber & Low-Level Projects
+
+* **[C Fundamentals Exercises](https://github.com/ShovalElhaiany/C-Fundamentals-Exercises):**
+  A complete set of exercises for learning the fundamentals of C — expressions, pointers, arrays, bitwise operations, structs, files, assembly, and more.
+
+* **Data Structures in C:**
+  Implementations of linked lists, hash tables, recursion libs, AVL trees, stacks, and sorting algorithms.
+
+* **[Network Protocols Exercises](https://github.com/ShovalElhaiany/network):**
+  Hands-on networking projects exploring the OSI model, DNS, SMTP, HTTP, scanning, packet crafting, and protocol internals (C + Python).
+
+* **[System Programming Exercises](https://github.com/ShovalElhaiany/system_programming):**
+  Projects focused on OS internals, memory allocators (FSA/VSA), authentication, IPC, process management, and building a minimal UNIX shell.
+
+* **[Python Cyber Toolkit](https://github.com/ShovalElhaiany/python):**
+  Python exercises combining cyber concepts: brute force, exploit automation, file parsing, payload building, log manipulation, and a small API-based full-stack project.
+
+* **[ARP Spoofer](https://github.com/ShovalElhaiany/arp_spoofer):**
+  Full MITM ARP-spoofing tool with traffic forwarding, checksum fixing, fragmentation, and packet rewriting using Scapy.
+
+* **C2 Over DNS & ICMP:**
+  Two full command-and-control systems written in Python — one over DNS queries/responses and one over ICMP echo packets (client, server, protocol, configs).
+
+* **EXT2 Filesystem Parser:**
+  A low-level EXT2 filesystem parser in C capable of reading inodes, following paths, extracting data, modifying permissions, and parsing raw disk structures.
+
+* **Custom VPN Implementation:**
+  Lightweight VPN in C using TUN interfaces, UDP transport, and OpenSSL encryption — including full routing & setup guide.
+
+---
+
+### 👨‍💻 Fullstack & Web Development
+
+* **[Airbnb](https://github.com/ShovalElhaiany/airbnb):**
   Backend system for managing property listings, authentication, and reservations.
 
-- **[FlightSystemProject](https://github.com/ShovalElhaiany/FlightSystemProject):**  
+* **[FlightSystemProject](https://github.com/ShovalElhaiany/FlightSystemProject):**
   A flight booking management platform with multi-user support.
 
-- **[Spotify](https://github.com/ShovalElhaiany/spotify):**  
+* **[Spotify](https://github.com/ShovalElhaiany/spotify):**
   A Spotify-style music streaming application.
 
-- **[Netflix](https://github.com/ShovalElhaiany/netflix):**  
+* **[Netflix](https://github.com/ShovalElhaiany/netflix):**
   Netflix clone with custom UI features and horizontal scrolling logic.
 
-- **[online-coding-app](https://github.com/ShovalElhaiany/online-coding-app):**  
+* **[online-coding-app](https://github.com/ShovalElhaiany/online-coding-app):**
   Real-time collaborative coding platform for mentors and students.
 
 ---
