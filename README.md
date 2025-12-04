@@ -107,4 +107,4 @@ Passionate about building efficient systems, solving complex technical problems,
 
 ## 📊 GitHub Stats
 
-![Shoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShovalElhaiany&show_icons=true&theme=radical)
+![Shoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShovalElhaiany&show_icons=true&theme=radical&cache_seconds=86400)
