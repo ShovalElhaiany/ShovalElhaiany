@@ -70,13 +70,13 @@ Passionate about building efficient systems, solving complex technical problems,
 * **[ARP Spoofer](https://github.com/ShovalElhaiany/arp_spoofer):**
   Full MITM ARP-spoofing tool with traffic forwarding, checksum fixing, fragmentation, and packet rewriting using Scapy.
 
-* **C2 Over DNS & ICMP:**
+* **[C2 Over DNS & ICMP](https://github.com/ShovalElhaiany/C2-Over-DNS-and-ICMP):**
   Two full command-and-control systems written in Python — one over DNS queries/responses and one over ICMP echo packets (client, server, protocol, configs).
 
-* **EXT2 Filesystem Parser:**
+* **[EXT2 Filesystem Parser](https://github.com/ShovalElhaiany/EXT2-FileSystem-Parser):**
   A low-level EXT2 filesystem parser in C capable of reading inodes, following paths, extracting data, modifying permissions, and parsing raw disk structures.
 
-* **Custom VPN Implementation:**
+* **[Custom VPN Implementation](https://github.com/ShovalElhaiany/C-VPN-Implementation):**
   Lightweight VPN in C using TUN interfaces, UDP transport, and OpenSSL encryption — including full routing & setup guide.
 
 ---
