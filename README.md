@@ -1,34 +1,79 @@
 # Hi there, I'm Shoval 👋
 
-Welcome to my GitHub profile! I'm a graduate of the Fullstack Python language course and a computer science student at Ariel University. As a beginner web developer, I am passionate about creating efficient and scalable applications.
+Welcome to my GitHub profile!  
+I'm a cybersecurity researcher and software developer with strong programming skills in **Python** and **C**, and hands-on experience in **OS internals**, **networking**, **system programming**, and **offensive & defensive security**.  
+Passionate about building efficient systems, solving complex technical problems, and constantly expanding my knowledge.
 
-## About Me
+---
 
-- 🔭 I’m currently working on an Airbnb project.
-- 🌱 I’m currently learning TypeScript and Next.js.
-- 👯 I’m looking to collaborate in the field of Python development (not just web development).
-- 📫 How to reach me: shoval.elhaiany@gmail.com | +972503413413
+## 🚀 About Me
 
-## Skills
+- 🔐 Currently enrolled in **Infinity Labs R&D – Cyber Research Experts Program**.  
+- 🔭 Working on multiple cybersecurity and low-level system projects.  
+- 🌱 Continuously learning: OS internals, memory, kernel, networking, exploitation, Python, C, TypeScript, and more.  
+- 👯 Open to collaboration in **Python**, **system programming**, **security research**, and backend development.  
+- 🎯 Looking for an entry-level **cybersecurity role** to grow, contribute, and tackle real-world challenges.  
+- 📫 Contact me: **shoval.elhaiany@gmail.com** | **+972-50-3413413**
 
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, Flask, Django, React
-- **Databases:** SQL, MySQL, PostgreSQL
-- **Tools & Technologies:** Docker, Microservices, Git, GitHub
+---
 
-## Projects
+## 🧠 Skills & Expertise
 
-- [Airbnb](https://github.com/ShovalElhaiany/airbnb): A backend system for managing Airbnb listings.
-- [FlightSystemProject](https://github.com/ShovalElhaiany/FlightSystemProject): A system for managing flight bookings.
-- [Spotify](https://github.com/ShovalElhaiany/spotify): A clone of Spotify with music streaming features.
-- [Netflix](https://github.com/ShovalElhaiany/netflix): A clone of Netflix with custom horizontal scrolling features.
-- [online-coding-app](https://github.com/ShovalElhaiany/online-coding-app): An application for real-time collaboration between mentors and students on JavaScript code.
+### 🔹 Programming
+- **Python**, **C**, JavaScript
 
-## Connect with Me
+### 🔹 Cybersecurity & System Knowledge
+- OS internals, memory management, file systems  
+- Kernel architecture & scheduling  
+- IPC, concurrency & system programming  
+- Networking (OSI/TCP/IP), routing  
+- Packet sniffing, monitoring & protocol analysis  
+- Vulnerability research & exploitation fundamentals  
+- MITRE ATT&CK, Cyber Kill Chain  
+- Offensive & defensive security methodologies  
+- SOC workflows, IR, malware & threat analysis  
 
-- [LinkedIn](https://www.linkedin.com/in/shoval-elhaiany)
-- [Personal-web](https://shovalelhaiany.github.io/personal-web)
+### 🔹 Backend & Web Development
+- Django, Flask  
+- React, JS, HTML, CSS
 
-## GitHub Stats
+### 🔹 Databases
+- SQL, MySQL, PostgreSQL
 
-![Shoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 🔹 DevOps & Tools
+- Linux, Docker, Microservices  
+- Git & GitHub  
+- Wireshark, tcpdump, gdb, Valgrind  
+- Burp Suite, Nmap, and other security tooling
+
+---
+
+## 📂 Projects (Selection)
+
+- **[Airbnb](https://github.com/ShovalElhaiany/airbnb):**  
+  Backend system for managing property listings, authentication, and reservations.
+
+- **[FlightSystemProject](https://github.com/ShovalElhaiany/FlightSystemProject):**  
+  A flight booking management platform with multi-user support.
+
+- **[Spotify](https://github.com/ShovalElhaiany/spotify):**  
+  A Spotify-style music streaming application.
+
+- **[Netflix](https://github.com/ShovalElhaiany/netflix):**  
+  Netflix clone with custom UI features and horizontal scrolling logic.
+
+- **[online-coding-app](https://github.com/ShovalElhaiany/online-coding-app):**  
+  Real-time collaborative coding platform for mentors and students.
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/shoval-elhaiany  
+- **Personal Website:** https://shovalelhaiany.github.io/personal-web
+
+---
+
+## 📊 GitHub Stats
+
+![Shoval's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShovalElhaiany&show_icons=true&theme=radical)
